@@ -20,8 +20,6 @@
     "physical-cpu-count": "^2.0.0"
   },
   "devDependencies": {
-    "@commitlint/cli": "^7.3.2",
-    "@commitlint/config-conventional": "^7.3.1",
     "commitlint": "^7.3.2",
     "eslint": "^5.12.1",
     "eslint-config-prettier": "^3.6.0",
